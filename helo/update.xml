@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.0.1</latestVersion>
-    <latestVersionCode>364</latestVersionCode>
+    <latestVersion>3.0.2</latestVersion>
+    <latestVersionCode>365</latestVersionCode>
     <url>https://raw.githubusercontent.com/babarqadri/releases/master/helo/update.apk</url>
   </update>
 </AppUpdater>
