@@ -1,12 +1,7 @@
 <AppUpdater>
   <update>
-<<<<<<< HEAD
     <latestVersion>3.0.5</latestVersion>
     <latestVersionCode>368</latestVersionCode>
-=======
-    <latestVersion>3.0.3</latestVersion>
-    <latestVersionCode>366</latestVersionCode>
->>>>>>> parent of 975ab4a... uploaded new version 3.0.4
     <url>https://raw.githubusercontent.com/babarqadri/releases/master/helo/update.apk</url>
   </update>
 </AppUpdater>
